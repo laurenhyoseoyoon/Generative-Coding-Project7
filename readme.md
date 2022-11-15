@@ -4,7 +4,7 @@
 Lauren Hyoseo Yoon
 
 ## LINK
-[my page](https://laurenhyoseoyoon-a1.glitch.me)
+(Project 7 Link): https://laurenhyoseoyoon.github.io/Generative-Coding-Project7/
 
 
 ## What data sources are you using? Link the API/Kaggle/etc pages 
