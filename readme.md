@@ -3,7 +3,7 @@
 ## Your name
 Lauren Hyoseo Yoon
 
-## Your Glitch link
+## LINK
 [my page](https://laurenhyoseoyoon-a1.glitch.me)
 
 
